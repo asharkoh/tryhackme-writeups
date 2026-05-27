@@ -1,7 +1,7 @@
 # SOC L1 Alert Triage
 
 **Platform:** TryHackMe  
-**Difficulty:** Easy
+**Difficulty:** Easy  
 **Date:** 5/27/26
 
 ## What the room covers
