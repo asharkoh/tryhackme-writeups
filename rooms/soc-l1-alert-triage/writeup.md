@@ -2,7 +2,7 @@
 
 **Platform:** TryHackMe  
 **Difficulty:** Easy  
-**Date:** 5/27/26
+**Date:** 27/5/26
 
 ## What the room covers
 The room covered SOC alerts at Level 1 looking at the dashboard and deciding what threats should be looked at first and what is a true positive or false.
